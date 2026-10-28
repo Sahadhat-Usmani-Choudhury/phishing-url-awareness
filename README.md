@@ -228,8 +228,8 @@ the documentation.
 
 Name: SAHADHAT USMANI CHOUDHURY
 
-Batch / Course: AI-POWERED CYBERSECURITY INTERNSHIP
+Batch / Course: AI-POWERED CYBERSECURITY INTERNSHIP.
 
-Programme: EWB Courses
+Programme: EWB Courses.
 
 GitHub username: Sahadhat-Usmani-Choudhury
